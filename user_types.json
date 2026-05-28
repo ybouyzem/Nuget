@@ -1,0 +1,39 @@
+[
+  {
+    "UserType": "Admin",
+    "Name": "Alice Walker",
+    "Age": 35,
+    "City": "San Francisco",
+    "AdminLevel": 1,
+    "Department": "IT"
+  },
+  {
+    "UserType": "Admin",
+    "Name": "Charlie Brown",
+    "Age": 42,
+    "City": "Seattle",
+    "AdminLevel": 2,
+    "Department": "Security"
+  },
+  {
+    "UserType": "RegularUser",
+    "Name": "Diana Prince",
+    "Age": 28,
+    "City": "Boston",
+    "SubscriptionPlan": "Premium"
+  },
+  {
+    "UserType": "RegularUser",
+    "Name": "Evan Rogers",
+    "Age": 22,
+    "City": "Austin",
+    "SubscriptionPlan": "Free"
+  },
+  {
+    "UserType": "Moderator",
+    "Name": "Fiona Green",
+    "Age": 31,
+    "City": "Denver",
+    "ModeratedSection": "General"
+  }
+]

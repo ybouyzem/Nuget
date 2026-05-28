@@ -1,0 +1,5 @@
+/home/ybouyzem/Documents/Nuget/obj/Debug/net8.0/Json.csproj.AssemblyReference.cache
+/home/ybouyzem/Documents/Nuget/obj/Debug/net8.0/Json.GeneratedMSBuildEditorConfig.editorconfig
+/home/ybouyzem/Documents/Nuget/obj/Debug/net8.0/Json.AssemblyInfoInputs.cache
+/home/ybouyzem/Documents/Nuget/obj/Debug/net8.0/Json.AssemblyInfo.cs
+/home/ybouyzem/Documents/Nuget/obj/Debug/net8.0/Json.csproj.CoreCompileInputs.cache

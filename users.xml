@@ -1,0 +1,12 @@
+<Users>
+  <User>
+    <Name>John Doe</Name>
+    <Age>30</Age>
+    <City>New York</City>
+  </User>
+  <User>
+    <Name>Jane Smith</Name>
+    <Age>25</Age>
+    <City>Los Angeles</City>
+  </User>
+</Users>
